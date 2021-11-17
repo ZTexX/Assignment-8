@@ -1,0 +1,2 @@
+language = "java10"
+run = "java Assignment8B.java"
